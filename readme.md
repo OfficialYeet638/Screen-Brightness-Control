@@ -2,6 +2,8 @@ This is an simple command line application that can control your screen brightne
 
 If your have more than 1 monitors, this application will change the brightness of all the screen. So use with caution.
 
+Work the best with laptop.
+
 
 
 How to use:
